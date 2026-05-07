@@ -1,0 +1,11 @@
+warehouse_id,warehouse_name,city,state,capacity
+1,WH_1,Mumbai,DL,14555
+2,WH_2,Hyderabad,MH,10450
+3,WH_3,Mumbai,DL,6663
+4,WH_4,Hyderabad,MH,14721
+5,WH_5,Bangalore,MH,10592
+6,WH_6,Bangalore,DL,12392
+7,WH_7,Bangalore,TS,6306
+8,WH_8,Delhi,TS,11776
+9,WH_9,Hyderabad,TS,10864
+10,WH_10,Delhi,TS,14474
